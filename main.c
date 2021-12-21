@@ -20,7 +20,7 @@
 #include <sys/ioctl.h>
 //#include <wiringPi.h>
 //#include <wiringPiSPI.h>
-#include "./src/dragino/raspberry.c"
+//#include "./src/dragino/raspberry.c"
 
 byte hello[32] = "HELLO";
 
@@ -66,7 +66,7 @@ int main (int argc, char *argv[]) {
         printf("Listening at SF%i on %.6f Mhz.\n", sf,(double)freq/1000000);
         printf("------------------\n");
         while(1) {
-            receivepacket(); 
+            //receivepacket(); 
             delay(1);
         }
     }
