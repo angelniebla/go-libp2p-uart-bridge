@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	raspberry "github.com/RTradeLtd/libp2p-lora-transport/src/dragino"
+	raspberry "github.com/angelniebla/go-libp2p-uart-bridge/src/dragino"
 )
 
 func main() {

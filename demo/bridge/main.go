@@ -13,7 +13,7 @@ import (
 	routedhost "github.com/libp2p/go-libp2p/p2p/host/routed"
 	"github.com/pkg/term"
 
-	bridge "github.com/RTradeLtd/libp2p-lora-transport/bridge"
+	bridge "github.com/angelniebla/go-libp2p-uart-bridge/bridge"
 	datastore "github.com/ipfs/go-datastore"
 	dssync "github.com/ipfs/go-datastore/sync"
 	"github.com/ipfs/go-ipns"
