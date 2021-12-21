@@ -18,8 +18,8 @@
 #include <signal.h>
 #include <stdlib.h>
 #include <sys/ioctl.h>
-#include <wiringPi.h>
-#include <wiringPiSPI.h>
+//#include <wiringPi.h>
+//#include <wiringPiSPI.h>
 #include "./src/dragino/raspberry.c"
 
 byte hello[32] = "HELLO";
