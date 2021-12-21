@@ -1,4 +1,4 @@
-module github.com/RTradeLtd/libp2p-lora-transport
+module github.com/angelniebla/go-libp2p-uart-bridge
 
 go 1.13
 
