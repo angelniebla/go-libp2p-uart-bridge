@@ -18,8 +18,8 @@
 #include <signal.h>
 #include <stdlib.h>
 #include <sys/ioctl.h>
-#include <wiringPi.h>
-#include <wiringPiSPI.h>
+//#include <wiringPi.h>
+//#include <wiringPiSPI.h>
 #include "../../include/dragino/raspberry.h"
 #include "../../include/array_len/array_len.h"
 
